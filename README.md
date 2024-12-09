@@ -30,9 +30,8 @@ Welcome to my personal GitHub repository! Here's a little about me:
 
 Feel free to reach out to me on these platforms:
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manisankar249@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://forms.gle/EDGrAFyYVr2cDnQ9A)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mani_sankar_pasala/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mani-sankar-pasala/)
 [![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/manisankar269)
 
-[manisankar249@gmail.com](mailto:manisankar249@gmail.com)
